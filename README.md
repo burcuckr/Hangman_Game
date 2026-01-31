@@ -23,7 +23,7 @@ The goal of the project is to reinforce fundamental Python skills by building an
 ```text
 Day7-Hangman/
 │
-├── main.py                # Game logic
+├── day7.py                # Game logic
 ├── day7HangmanArts.py     # Logo and Hangman visuals
 ├── day7HangmanWords.py   # Word list
 └── README.md
